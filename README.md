@@ -25,7 +25,7 @@
   In order to use this app, we will need to enlist the help of Postman in order to send the different types of API requests since browsers usually only handle GET requests. We can use Postman to send data into the database or remove data from the database.
   
   
-  [![DEMO]({/DEMO-Team-Information.mp4} "Demo")
+  [![DEMO]({/DEMO-Online-Retail-Backend.mp4} "Demo")
     
 
   ##  Installation
